@@ -72,6 +72,7 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 brew install zsh
+brew install tig
 
 # Remove outdated versions from the cellar.
 brew cleanup
