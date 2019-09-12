@@ -73,6 +73,8 @@ brew install vbindiff
 brew install zopfli
 brew install zsh
 brew install tig
+brew install z
+brew install n
 
 # Remove outdated versions from the cellar.
 brew cleanup

@@ -1,5 +1,5 @@
 # global vars
-export PATH="$HOME/.avn/bin:/usr/local/mysql/bin:/usr/local/share/npm/bin:$HOME/aws-eb:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:./node_modules/.bin:$HOME/Android/tools:$HOME/bin:$HOME/.rvm/bin"
+export PATH="$HOME/flutter/bin:$HOME/.avn/bin:/usr/local/mysql/bin:/usr/local/share/npm/bin:$HOME/aws-eb:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:./node_modules/.bin:$HOME/Android/tools:$HOME/bin:$HOME/.rvm/bin"
 export ZSH=$HOME/.oh-my-zsh
 export NPM_TOKEN=51f94428-9079-46bb-b7df-55848893c6b1
 
